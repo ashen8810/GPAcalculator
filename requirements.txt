@@ -1,0 +1,7 @@
+dnspython
+Pillow==9.0.1
+pymongo==4.0.2
+requests==2.27.1
+streamlit==1.7.0
+streamlit_lottie==0.0.3
+click<=8.0.4
